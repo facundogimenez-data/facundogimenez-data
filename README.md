@@ -21,7 +21,7 @@
 name: Facundo Gimenez
 location: Barcelona, Spain
 current_role: Data Analyst & BI Specialist
-background: +5 years in Supply Chain (AR, NL)
+background: +5 years in Supply Chain
 focus: Turning operational complexity into actionable insights
 industries: Logistics, Finance, Operations, E-commerce
 ```
