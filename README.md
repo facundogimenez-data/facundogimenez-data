@@ -20,8 +20,8 @@
 ```yaml
 name: Facundo Gimenez
 location: Barcelona, Spain
-background: +5 years in Supply Chain across 4 countries (AR, NL, AU, ES)
 current_role: Data Analyst & BI Specialist
+background: +5 years in Supply Chain (AR, NL)
 focus: Turning operational complexity into actionable insights
 industries: Logistics, Finance, Operations, E-commerce
 ```
