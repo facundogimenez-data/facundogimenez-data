@@ -1,23 +1,21 @@
+<!-- Header Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:3B82F6&height=220&section=header&text=Facundo%20Gimenez&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain&descSize=18&descColor=94A3B8&descAlignY=55&animation=fadeIn" />
+</div>
+
+<!-- Social Badges -->
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Facundo+Gimenez;Data+Analyst+%7C+Supply+Chain+%7C+BI" alt="Typing SVG" /></a>
-
-<br/>
-
-**Bridging raw data and strategic decision-making for Logistics, Finance & Operations**
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-r-gimenez/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundogimenez.data@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facundogimenez-data?tab=repositories)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundogimenez.data@gmail.com)
+[![Repos](https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facundogimenez-data?tab=repositories)
 
 </div>
 
----
+<br/>
 
-### 🧑‍💻 About Me
+<!-- About Me -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
 name: Facundo Gimenez
@@ -28,30 +26,31 @@ focus: Turning operational complexity into actionable insights
 industries: Logistics, Finance, Operations, E-commerce
 ```
 
-> *I understand the lifecycle of a shipment — from the warehouse floor to the final invoice. I use this domain expertise to build data models that detect margin leaks, optimize carrier selection, and forecast operational bottlenecks.*
+- 📊 I build **data models** that detect margin leaks and forecast operational bottlenecks
+- 🚚 I understand the lifecycle of a shipment — from warehouse floor to final invoice
+- 🛠️ Currently working with **Power BI, SQL, Python & n8n** to automate decision-making
+- 📫 Reach me at **facundogimenez.data@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Data & Analytics**
-
+### Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Visualization**
-
+### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Automation & Tools**
-
+### Automation & Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -61,74 +60,85 @@ industries: Logistics, Finance, Operations, E-commerce
 
 ---
 
-### 📈 GitHub Stats
+<!-- GitHub Analytics -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=facundogimenez-data&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundogimenez-data&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=facundogimenez-data&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundogimenez-data&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=facundogimenez-data&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-</div>
-
----
-
-### 📊 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🔮 Forecasting & Automation**
-| Project | Tech |
-|---------|------|
-| [Forecast & Purchase Planning](https://github.com/facundogimenez-data/forecast-purchase-planning-n8n) | `Python` `SQL` `n8n` |
-
-</td>
-<td width="50%">
-
-**📊 Power BI Dashboards**
-| Project | Tech |
-|---------|------|
-| [Car Evaluation Report](https://github.com/facundogimenez-data/car-evaluation-report-powerbi) | `Power BI` `Python` |
-| [Logistics Operations](https://github.com/facundogimenez-data/logistics-operations-powerbi) | `Power BI` `SQL` |
-| [Profit & Loss (P&L)](https://github.com/facundogimenez-data/profit-loss-statement-powerbi) | `Power BI` `DAX` |
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🐍 Python Analytics**
-| Project | Tech |
-|---------|------|
-| [INE Population Analysis](https://github.com/facundogimenez-data/ine-population-analysis) | `Python` `Pandas` |
-| [CO2 Emissions Analysis](https://github.com/facundogimenez-data/co2-emissions-analysis) | `Python` `NumPy` |
-| [Titanic Survival Analysis](https://github.com/facundogimenez-data/titanic-survival-analysis) | `Python` `Seaborn` |
-
-</td>
-<td width="50%">
-
-**🗄️ SQL & Data Engineering**
-| Project | Tech |
-|---------|------|
-| [Financial Analysis + Web Traffic](https://github.com/facundogimenez-data/financial-analysis-web-traffic-sql) | `SQL` `MySQL` |
-| [Data Cleaning: LearnData](https://github.com/facundogimenez-data/data-cleaning-learndata-sql) | `SQL` `MySQL` |
-| [Dashboard Clinica Azul](https://github.com/facundogimenez-data/clinica-azul-dashboard) | `Google Sheets` |
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-**Business Intelligence | Data Analytics | Supply Chain Management**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=facundogimenez-data&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=facundogimenez-data&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=555555" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=facundogimenez-data&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true" width="95%" />
+</div>
+
+---
+
+<!-- Projects -->
+## 📊 Featured Projects
+
+<div align="center">
+
+### 🔮 Forecasting & Automation
+<a href="https://github.com/facundogimenez-data/forecast-purchase-planning-n8n">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=forecast-purchase-planning-n8n&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+
+### 📊 Power BI Dashboards
+<a href="https://github.com/facundogimenez-data/car-evaluation-report-powerbi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=car-evaluation-report-powerbi&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/facundogimenez-data/logistics-operations-powerbi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=logistics-operations-powerbi&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/facundogimenez-data/profit-loss-statement-powerbi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=profit-loss-statement-powerbi&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+
+### 🐍 Python Analytics
+<a href="https://github.com/facundogimenez-data/ine-population-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=ine-population-analysis&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/facundogimenez-data/co2-emissions-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=co2-emissions-analysis&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/facundogimenez-data/titanic-survival-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=titanic-survival-analysis&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+
+### 🗄️ SQL & Data Engineering
+<a href="https://github.com/facundogimenez-data/financial-analysis-web-traffic-sql">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=financial-analysis-web-traffic-sql&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/facundogimenez-data/data-cleaning-learndata-sql">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=data-cleaning-learndata-sql&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/facundogimenez-data/clinica-azul-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=facundogimenez-data&repo=clinica-azul-dashboard&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
+</a>
 
 </div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=facundogimenez-data&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**Business Intelligence | Data Analytics | Supply Chain Management**
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1a1a2e,100:0D1117&height=120&section=footer" />
