@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:3B82F6&height=220&section=header&text=Facundo%20Gimenez&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Supply%20Chain&descSize=18&descColor=94A3B8&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:3B82F6&height=220&section=header&text=Facundo%20Gimenez&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20Automations%20%7C%20Business%20Intelligence&descSize=18&descColor=94A3B8&descAlignY=55&animation=fadeIn" />
 </div>
 
 <!-- Social Badges -->
@@ -39,22 +39,21 @@ industries: Logistics, Finance, Operations, E-commerce
 <div align="center">
 
 ### Data & Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Automation & Tools
+### Automations
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -136,7 +135,7 @@ industries: Logistics, Finance, Operations, E-commerce
 
 <br/><br/>
 
-**Business Intelligence | Data Analytics | Supply Chain Management**
+**Data Analyst | AI Automations | Business Intelligence**
 
 </div>
 
