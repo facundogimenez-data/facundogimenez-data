@@ -64,7 +64,7 @@ industries: Logistics, Finance, Operations, E-commerce
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=facundogimenez-data&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundogimenez-data&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundogimenez-data&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&cache_seconds=1800" />
 </div>
 
 <br/>
